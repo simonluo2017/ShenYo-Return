@@ -5,6 +5,7 @@
   <SecurityToken>2408AB1B-D454-4DCB-B031-42E185C4B27F</SecurityToken>
   <BaseUri>https://raw.githubusercontent.com/simonluo2017/ShenYo-Return/master/</BaseUri>
   <Payload>ShenYo-Return.zip</Payload>
+  <StartUpDir>ShenYo-Return</StartUpDir>  
   <StartUpExe>ShenYo-Return\ShenYo-Return.exe</StartUpExe>
   <TimeStampeFileCheckEnabled>False</TimeStampeFileCheckEnabled>
   <RemoveDll>System.Data.SQLite.dll</RemoveDll>
